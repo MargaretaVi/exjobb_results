@@ -1,3 +1,4 @@
 *.index
 *.meta
 *.data
+*.DS_Store
